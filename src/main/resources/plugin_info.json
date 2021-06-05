@@ -5,9 +5,6 @@
     "romtec"
   ],
   "description": "Helps fix anticheat rubberbands while flying",
-  "url": "",
-  "min_api_version": "2.05.01",
-  "required_plugins": [],
   "main_class": "ElytraFixPlugin",
-  "hot_reload": true
+  "min_api_version": "2.05.01"
 }
